@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">weather_glovy</string>
+    <string name="homeLabel">Home</string>
+    <string name="historyLabel">History</string>
+    <string name="wind_direction">Wind Direction: %1$s</string>
+    <string name="wind_km_h">Wind: %1$s km/h</string>
+    <string name="humidity_title">Humidity: %1$s</string>
+    <string name="now_title">Now</string>
+    <string name="weather_app">Weather App</string>
+    <string name="history_forecast_title">History Forecast</string>
+    <string name="history_forecast_empty_msg">You don\'t have any history forecast</string>
+    <string name="try_again_button">Try Again</string>
+</resources>
