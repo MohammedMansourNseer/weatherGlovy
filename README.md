@@ -87,23 +87,10 @@ WeatherGlovy is an Android application designed to enhance your weather experien
 
 ---
 
-## Testing
-- Unit tests are written to ensure that the business logic is robust and reliable.
-- UI tests are implemented for verifying user interactions.
-
----
-
 ## Contribution Guidelines
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a clear description of the changes.
 
----
 
-## Contact
-For any inquiries or support, please contact the development team.
-
----
-
-Enjoy using WeatherGlovy to capture and share your weather moments!
 
